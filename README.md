@@ -13,5 +13,5 @@ Foram utilizadas as seguintes tecnologias:<br>
 </h4>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
   
-<a href="#" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
-<a href="#" target_="blank"> Clicking Here!</a>📌
+<a href="https://ingritedaiane.github.io/CarrinhoDeCompras/" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
+<a href="https://ingritedaiane.github.io/CarrinhoDeCompras/" target_="blank"> Clicking Here!</a>📌
