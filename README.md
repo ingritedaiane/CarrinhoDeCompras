@@ -1,7 +1,7 @@
 <div align="center"><h1> Carrinho De Compras 👕 🛒</h1>
 
 
-<img src="" width="400px"><br>
+<img src="https://repository-images.githubusercontent.com/638696398/cdddfe4b-dcec-45d3-b604-1abb5778a690" width="600px"><br>
 
 <h4>Exercicio de manipulação de objetos (DOM)<br> 
 feito com base na aula do instituto Nu em parceria com a Descomplica!<br>
